@@ -15,27 +15,9 @@ int main()
 
     switch(op)
     {
-        case '+':
-            result = num1 + num2;
-            break;
 
-        case '-':
-            result = num1 - num2;
-            break;
 
-        case '*':
-            result = num1 * num2;
-            break;
 
-        case '/':
-            result = num1 / num2;
-            break;
-
-        default:
-            cout << "Invalid operator";
-            return 0;
-
-            lala
     }
 
     cout << num1 << " " << op << " " << num2 << " = " << result;
