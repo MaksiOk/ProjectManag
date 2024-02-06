@@ -28,6 +28,13 @@ int main()
             break;
 
 
+        case '/':
+            result = num1 / num2;
+            break;
+
+        default:
+            cout << "Invalid operator";
+            return 0;
 
 
     }
