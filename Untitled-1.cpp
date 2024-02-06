@@ -34,6 +34,8 @@ int main()
         default:
             cout << "Invalid operator";
             return 0;
+
+            lala
     }
 
     cout << num1 << " " << op << " " << num2 << " = " << result;
